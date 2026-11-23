@@ -5,6 +5,7 @@ Group project for **CDS 2413 Programming for Data Analytics**, Semester 202610.
 ## Group Members
 - Haya
 - Shaikha
+- **Course:** CDS 2413 Programming for Data Analytics, Higher Colleges of Technology
 
 ## Project Overview
 This project analyses 25,000 Dubai rental property listings to understand how property characteristics relate to annual rent, and builds machine learning models to predict and group rental prices.
