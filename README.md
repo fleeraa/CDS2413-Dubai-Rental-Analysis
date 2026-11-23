@@ -27,7 +27,6 @@ CDS2413-Dubai-Rental-Analysis/
 |   |-- CDS2413_Deliverable1_Data_Analysis_Report.docx
 |   |-- CDS2413_Deliverable2_ML_Model_Report.docx
 |-- requirements.txt                Python libraries needed
-|-- .gitignore
 |-- README.md
 ```
 
@@ -50,3 +49,6 @@ pip install -r requirements.txt
 python code/deliverable1.py
 python code/deliverable2.py
 ```
+
+## Data Versioning
+All project files are tracked with Git and stored on GitHub. Each change is saved as a commit with a clear message, so earlier versions of the dataset, code and reports can be reviewed or restored.
